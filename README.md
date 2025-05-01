@@ -14,7 +14,3 @@ This project builds a personalized product recommendation engine using:
   Technologies
 `Python` | `Streamlit` | `Surprise` | `Transformers` | `Plotly` | `Pandas`
 
- Installation
-
-pip install -r requirements.txt
-streamlit run app.py
